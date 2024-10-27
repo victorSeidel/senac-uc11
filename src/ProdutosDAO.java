@@ -40,7 +40,6 @@ public class ProdutosDAO {
     }
     
     public ArrayList<ProdutosDTO> listarProdutos(){
-        
         try 
         {
             conn = new conectaDAO().connectDB();
@@ -82,5 +81,6 @@ public class ProdutosDAO {
             JOptionPane.showMessageDialog(null, "Erro ao vender produto: " + e.getMessage());
         }
     }   
+    }
 }
 
