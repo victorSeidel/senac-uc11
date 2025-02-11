@@ -8,4 +8,4 @@ Projeto Casa de Leilões
 
 <> Technologies
 - Java e Java Swing com NetBeans IDE
-- SQL com MySQL e MtSQL Workbench
+- SQL com MySQL e MySQL Workbench
